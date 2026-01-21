@@ -1,0 +1,231 @@
+{
+  "config": {
+    "storeName": "Anime Figures Store",
+    "whatsapp": "5491112345678",
+    "currency": "ARS",
+    "description": "Figuras de anime de excelente calidad. Retiro en Estación Sarandí o Shopping Alto Avellaneda sin cargo. Envíos a todo el país."
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Esferas del Dragón - Dragon Ball Z",
+      "description": "Set completo de las 7 esferas del dragón coleccionables",
+      "price": 37500,
+      "currency": "ARS",
+      "images": [
+        "images/products/dragon_ball_esferas.jpg",
+        "images/products/dragon_ball_esferas_1.jpg"
+      ],
+      "category": "figuras",
+      "series": "Dragon Ball",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Figura Denji Transformado - Chainsaw Man",
+      "description": "Figura de Denji en su forma Chainsaw Man con Pochita",
+      "price": 15000,
+      "currency": "ARS",
+      "images": [
+        "images/products/chainsawman_pochita_chica_1.jpg",
+        "images/products/chainsawman_pochita_chica_2.jpg",
+        "images/products/chainsawman_pochita_chica_3.jpg",
+        "images/products/chainsawman_pochita_chica_4.jpg",
+        "images/products/chainsawman_pochita_chica_5.jpg"
+      ],
+      "category": "figuras",
+      "series": "Chainsaw Man",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Figura Pochita Grande Set - Chainsaw Man",
+      "description": "Set grande con Pochita, Denji y Power. Incluye múltiples accesorios",
+      "price": 39000,
+      "currency": "ARS",
+      "images": [
+        "images/products/chainsawman_pochita.jpg",
+        "images/products/chainsawman_pochita_1.jpg",
+        "images/products/chainsawman_pochita_2.jpg",
+        "images/products/chainsawman_pochita_3.jpg",
+        "images/products/chainsawman_pochita_4.jpg",
+        "images/products/chainsawman_pochita_5.jpg",
+        "images/products/chainsawman_pochita_6.jpg"
+      ],
+      "category": "figuras",
+      "series": "Chainsaw Man",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Figura Shenlong - Dragon Ball Z",
+      "description": "Figura MEGA World Collectable del dragón Shenlong",
+      "price": 39000,
+      "currency": "ARS",
+      "images": [
+        "images/products/dragon_ball_z_shenlong.jpg",
+        "images/products/dragon_ball_z_shenlong_1.jpg",
+        "images/products/dragon_ball_z_shenlong_2.jpg",
+        "images/products/dragon_ball_z_shenlong_3.jpg",
+        "images/products/dragon_ball_z_shenlong_4.jpg",
+        "images/products/dragon_ball_z_shenlong_5.jpg"
+      ],
+      "category": "figuras",
+      "series": "Dragon Ball",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Figura Vegetto Super Saiyan - Dragon Ball Z",
+      "description": "Figura de Vegetto en su transformación Super Saiyan",
+      "price": 38000,
+      "currency": "ARS",
+      "images": [
+        "images/products/dragon_ball_z_vegetto.jpg",
+        "images/products/dragon_ball_z_vegetto_1.jpg",
+        "images/products/dragon_ball_z_vegetto_2.jpg",
+        "images/products/dragon_ball_z_vegetto_3.jpg",
+        "images/products/dragon_ball_z_vegetto_4.jpg"
+      ],
+      "category": "figuras",
+      "series": "Dragon Ball",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Pack Chainsaw Man x6 Figuras",
+      "description": "Pack de 6 figuras chibi incluyendo a Denji, Power, Aki y más",
+      "price": 30000,
+      "currency": "ARS",
+      "images": [
+        "images/products/chainsawman_power_denji.jpg",
+        "images/products/chainsawman_power_denji(1).jpg",
+        "images/products/chainsawman_denji_power_2.jpg",
+        "images/products/chainsawman_denji_power_3.jpg"
+      ],
+      "category": "figuras",
+      "series": "Chainsaw Man",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Pack Hunter x Hunter x6 Figuras - Gon y Killua",
+      "description": "Pack de 6 figuras chibi de Hunter x Hunter. Incluye a Gon, Killua y más",
+      "price": 28000,
+      "currency": "ARS",
+      "images": [
+        "images/products/hunter_x_hunter_gon_killua.jpg",
+        "images/products/hunter_x_hunter_gon_killua_1.jpg",
+        "images/products/hunter_x_hunter_gon_killua_2.jpg",
+        "images/products/hunter_x_hunter_gon_killua_3.jpg"
+      ],
+      "category": "figuras",
+      "series": "Hunter x Hunter",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Pack Hunter x Hunter x6 Figuras - Chrollo y Kurapika",
+      "description": "Pack de 6 figuras chibi de Hunter x Hunter. Incluye a Chrollo, Kurapika y más",
+      "price": 28000,
+      "currency": "ARS",
+      "images": [
+        "images/products/hunter_x_hunter_lucifer_kurapika.jpg",
+        "images/products/hunter_x_hunter_lucifer_kurapika_1.jpg"
+      ],
+      "category": "figuras",
+      "series": "Hunter x Hunter",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Figura Androide 18 Bikini - Dragon Ball Z",
+      "description": "Figura premium de Androide 18 en versión playa. Alto detalle y acabado",
+      "price": 80000,
+      "currency": "ARS",
+      "images": [
+        "images/products/dragon_ball_z_androide_18.jpg",
+        "images/products/dragon_ball_z_androide_18_1.jpg",
+        "images/products/dragon_ball_z_androide_18_2.jpg",
+        "images/products/dragon_ball_z_androide_18_3.jpg",
+        "images/products/dragon_ball_z_androide_18_4.jpg",
+        "images/products/dragon_ball_z_androide_18_5.jpg"
+      ],
+      "category": "figuras",
+      "series": "Dragon Ball",
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Figura Asuka Langley - Evangelion",
+      "description": "Figura de Asuka Langley Soryu con plugsuit. Excelente detalle",
+      "price": 42000,
+      "currency": "ARS",
+      "images": [
+        "images/products/asuka_evangelion.jpg",
+        "images/products/asuka_evangelion_1.jpg",
+        "images/products/asuka_evangelion_2.jpg",
+        "images/products/asuka_evangelion_3.jpg",
+        "images/products/asuka_evangelion_4.jpg"
+      ],
+      "category": "figuras",
+      "series": "Evangelion",
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "Figura 2B Bunny Parada - Nier Automata",
+      "description": "Figura premium de 2B en versión bunny de pie. Chokonose Premium Figure",
+      "price": 36000,
+      "currency": "ARS",
+      "images": [
+        "images/products/nier_automata_parada.jpg",
+        "images/products/nier_automata_parada_1.jpg",
+        "images/products/nier_automata_parada_2.jpg",
+        "images/products/nier_automata_parada_3.jpg",
+        "images/products/nier_automata_parada_4.jpg",
+        "images/products/nier_automata_parada_5.jpg"
+      ],
+      "category": "figuras",
+      "series": "Nier Automata",
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "Figura 2B Bunny Sentada - Nier Automata",
+      "description": "Figura premium de 2B en versión bunny sentada. Excelente acabado",
+      "price": 36000,
+      "currency": "ARS",
+      "images": [
+        "images/products/nier_automata_sit.jpg",
+        "images/products/nier_automata_sit_1.jpg",
+        "images/products/nier_automata_sit_2.jpg",
+        "images/products/nier_automata_sit_3.jpg"
+      ],
+      "category": "figuras",
+      "series": "Nier Automata",
+      "available": true
+    },
+    {
+      "id": 13,
+      "name": "Pack One Piece Bikini x2 - Nami y Robin",
+      "description": "Pack de 2 figuras: Nami y Nico Robin en versión playa con sombreros",
+      "price": 40000,
+      "currency": "ARS",
+      "images": [
+        "images/products/one_piece_nico_robin.jpg",
+        "images/products/one_piece_nico_robin_1.jpg",
+        "images/products/one_piece_nico_robin_2.jpg",
+        "images/products/one_piece_nico_robin_3.jpg",
+        "images/products/one_piece_nami.jpg",
+        "images/products/one_piece_nami_1.jpg",
+        "images/products/one_piece_nami_2.jpg",
+        "images/products/one_piece_nami_3.jpg",
+        "images/products/one_piece_nami_4.jpg"
+      ],
+      "category": "figuras",
+      "series": "One Piece",
+      "available": true
+    }
+  ]
+}
