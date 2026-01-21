@@ -128,18 +128,18 @@ button {
     align-items: center;
 }
 
-.logo-img {
-    height: 50px;
+.logo-svg {
+    height: 55px;
     width: auto;
     transition: transform var(--transition-fast);
 }
 
-.logo:hover .logo-img {
+.logo:hover .logo-svg {
     transform: scale(1.05);
 }
 
-.footer-logo {
-    height: 60px;
+.footer-logo-svg {
+    height: 70px;
     width: auto;
 }
 
