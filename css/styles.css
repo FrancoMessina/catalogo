@@ -126,20 +126,21 @@ button {
 .logo {
     display: flex;
     align-items: center;
-    gap: var(--spacing-xs);
-    font-size: 1.5rem;
-    font-weight: 700;
 }
 
-.logo-icon {
-    font-size: 1.8rem;
+.logo-img {
+    height: 50px;
+    width: auto;
+    transition: transform var(--transition-fast);
 }
 
-.logo-text {
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+.logo:hover .logo-img {
+    transform: scale(1.05);
+}
+
+.footer-logo {
+    height: 60px;
+    width: auto;
 }
 
 .nav-list {
