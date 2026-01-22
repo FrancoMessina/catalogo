@@ -45,18 +45,7 @@
       "price": 15000,
       "currency": "ARS",
       "images": [
-        "images/products/chainsawman_power_denji.jpg"
-      ],
-      "category": "figuras",
-      "series": "Chainsaw Man",
-      "available": true
-    },
-    {
-      "id": 4,
-      "name": "Figuras Chainsawman Denji y Power - Chainsaw Man",
-      "price": 15000,
-      "currency": "ARS",
-      "images": [
+        "images/products/chainsawman_power_denji.jpg",
         "images/products/chainsawman_power_denji(1).jpg"
       ],
       "category": "figuras",
