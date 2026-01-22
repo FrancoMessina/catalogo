@@ -117,12 +117,12 @@
       "price": 80000,
       "currency": "ARS",
       "images": [
-        "images/products/dragon_ball_z_androide_18.jpg",
+        "images/products/dragon_ball_z_androide_18_5.jpg",
         "images/products/dragon_ball_z_androide_18_1.jpg",
         "images/products/dragon_ball_z_androide_18_2.jpg",
         "images/products/dragon_ball_z_androide_18_3.jpg",
         "images/products/dragon_ball_z_androide_18_4.jpg",
-        "images/products/dragon_ball_z_androide_18_5.jpg"
+        "images/products/dragon_ball_z_androide_18.jpg"
       ],
       "category": "figuras",
       "series": "Dragon Ball",
@@ -134,11 +134,11 @@
       "price": 42000,
       "currency": "ARS",
       "images": [
-        "images/products/asuka_evangelion.jpg",
         "images/products/asuka_evangelion_1.jpg",
         "images/products/asuka_evangelion_2.jpg",
         "images/products/asuka_evangelion_3.jpg",
-        "images/products/asuka_evangelion_4.jpg"
+        "images/products/asuka_evangelion_4.jpg",
+        "images/products/asuka_evangelion.jpg"
       ],
       "category": "figuras",
       "series": "Evangelion",
