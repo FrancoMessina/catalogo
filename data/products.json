@@ -7,7 +7,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Figura Chainsaw Man Pochita - Chainsaw Man",
+      "name": "Figura Pochita - Chainsaw Man",
       "price": 15000,
       "currency": "ARS",
       "images": [
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "name": "Figura Chainsaw Man Pochita - Chainsaw Man",
+      "name": "Figura Pochita - Chainsaw Man",
       "price": 39000,
       "currency": "ARS",
       "images": [
@@ -41,7 +41,7 @@
     },
     {
       "id": 3,
-      "name": "Figuras Chainsawman Pochita y Denji - Chainsaw Man",
+      "name": "Figuras Pochita y Denji - Chainsaw Man",
       "price": 15000,
       "currency": "ARS",
       "images": [
@@ -54,7 +54,7 @@
     },
     {
       "id": 5,
-      "name": "Figuras Chainsawman Power y Denji - Chainsaw Man",
+      "name": "Figuras Power y Denji - Chainsaw Man",
       "price": 15000,
       "currency": "ARS",
       "images": [
@@ -198,7 +198,8 @@
         "images/products/nier_automata_sit.jpg",
         "images/products/nier_automata_sit_1.jpg",
         "images/products/nier_automata_sit_2.jpg",
-        "images/products/nier_automata_sit_3.jpg"
+        "images/products/nier_automata_sit_3.jpg",
+        "images/products/nier_automata_sit_4.jpg"
       ],
       "category": "figuras",
       "series": "Nier Automata",
@@ -210,7 +211,6 @@
       "price": 20000,
       "currency": "ARS",
       "images": [
-        "images/products/one_piece_nami.jpg",
         "images/products/one_piece_nami_1.jpg",
         "images/products/one_piece_nami_2.jpg",
         "images/products/one_piece_nami_3.jpg",
