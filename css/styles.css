@@ -129,7 +129,7 @@ button {
 }
 
 .logo-svg {
-    height: 55px;
+    height: 90px;
     width: auto;
     transition: transform var(--transition-fast);
 }
