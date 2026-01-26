@@ -129,7 +129,7 @@ button {
 }
 
 .logo-svg {
-    height: 90px;
+    height: 60px;
     width: auto;
     transition: transform var(--transition-fast);
 }
@@ -226,11 +226,12 @@ button {
 }
 
 .hero-subtitle {
-    font-size: 1.125rem;
+    font-size: 1rem;
     color: var(--text-secondary);
-    max-width: 600px;
+    max-width: 900px;
     margin: 0 auto;
     position: relative;
+    line-height: 1.7;
 }
 
 .hero-badges {
