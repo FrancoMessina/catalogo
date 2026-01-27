@@ -45,8 +45,21 @@
       "price": 15000,
       "currency": "ARS",
       "images": [
-        "images/products/chainsawman_power_denji(1).jpg",
-        "images/products/chainsawman_power_denji.jpg"
+        "images/products/chainsawman_pochita_denji.jpg",
+        "images/products/chainsawman_pochita_denji_1.jpg"
+      ],
+      "category": "figuras",
+      "series": "Chainsaw Man",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Figuras Power y Denji - Chainsaw Man",
+      "price": 15000,
+      "currency": "ARS",
+      "images": [
+        "images/products/chainsawman_power_denji.jpg",
+        "images/products/chainsawman_power_denji(1).jpg"
       ],
       "category": "figuras",
       "series": "Chainsaw Man",
@@ -54,7 +67,7 @@
     },
     {
       "id": 5,
-      "name": "Figuras Power y Denji - Chainsaw Man",
+      "name": "Figuras Denji y Power - Chainsaw Man",
       "price": 15000,
       "currency": "ARS",
       "images": [
@@ -161,6 +174,19 @@
     },
     {
       "id": 12,
+      "name": "Figuras Killua y Gon - Hunter X Hunter",
+      "price": 14000,
+      "currency": "ARS",
+      "images": [
+        "images/products/hunter_x_hunter_gon_killua_2.jpg",
+        "images/products/hunter_x_hunter_gon_killua_3.jpg"
+      ],
+      "category": "figuras",
+      "series": "Hunter x Hunter",
+      "available": true
+    },
+    {
+      "id": 13,
       "name": "Figuras Lucifer y Kurapika - Hunter X Hunter",
       "price": 14000,
       "currency": "ARS",
@@ -173,7 +199,7 @@
       "available": true
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Figura Nier Automata",
       "price": 36000,
       "currency": "ARS",
@@ -190,7 +216,7 @@
       "available": true
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Figura Nier Automata",
       "price": 36000,
       "currency": "ARS",
@@ -206,7 +232,7 @@
       "available": true
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Figura Nami Bikini - One Piece",
       "price": 20000,
       "currency": "ARS",
@@ -221,7 +247,7 @@
       "available": true
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Figura Nico Robin Bikini - One Piece",
       "price": 20000,
       "currency": "ARS",
