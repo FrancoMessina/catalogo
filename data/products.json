@@ -58,8 +58,9 @@
       "price": 15000,
       "currency": "ARS",
       "images": [
-        "images/products/chainsawman_power_denji.jpg",
-        "images/products/chainsawman_power_denji(1).jpg"
+        "images/products/chainsawman_power_denji(1).jpg",
+        "images/products/chainsawman_power_denji.jpg"
+
       ],
       "category": "figuras",
       "series": "Chainsaw Man",
