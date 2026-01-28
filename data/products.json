@@ -27,8 +27,8 @@
       "price": 39000,
       "currency": "ARS",
       "images": [
-        "images/products/chainsawman_pochita.jpg",
         "images/products/chainsawman_pochita_1.jpg",
+        "images/products/chainsawman_pochita.jpg",
         "images/products/chainsawman_pochita_2.jpg",
         "images/products/chainsawman_pochita_3.jpg",
         "images/products/chainsawman_pochita_4.jpg",
@@ -85,8 +85,8 @@
       "price": 37500,
       "currency": "ARS",
       "images": [
-        "images/products/dragon_ball_esferas.jpg",
-        "images/products/dragon_ball_esferas_1.jpg"
+        "images/products/dragon_ball_esferas_1.jpg",
+        "images/products/dragon_ball_esferas.jpg"
       ],
       "category": "figuras",
       "series": "Dragon Ball",
@@ -205,9 +205,9 @@
       "price": 36000,
       "currency": "ARS",
       "images": [
+        "images/products/nier_automata_parada_2.jpg",
         "images/products/nier_automata_parada.jpg",
         "images/products/nier_automata_parada_1.jpg",
-        "images/products/nier_automata_parada_2.jpg",
         "images/products/nier_automata_parada_3.jpg",
         "images/products/nier_automata_parada_4.jpg",
         "images/products/nier_automata_parada_5.jpg"
@@ -222,8 +222,8 @@
       "price": 36000,
       "currency": "ARS",
       "images": [
-        "images/products/nier_automata_sit.jpg",
         "images/products/nier_automata_sit_1.jpg",
+        "images/products/nier_automata_sit.jpg",
         "images/products/nier_automata_sit_2.jpg",
         "images/products/nier_automata_sit_3.jpg",
         "images/products/nier_automata_sit_4.jpg"
